@@ -192,3 +192,15 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+llm-zoomcamp/
+minsearch/
+notebooks/
+soft/
+experiments/
+**/artifacts/
+**/data/
+**/models/
+**/mlruns/
+**/output/
+**/mlflow.db
